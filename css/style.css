@@ -1,0 +1,35 @@
+/*.rectangulo{
+	width:300px;
+	height: 100px ;
+}
+.a{
+	width: 80px;
+	height: 80px ;
+}*/
+hr{
+	color: black;
+	width:5% ;
+	display: inline-block;
+	float: left;
+}
+div{
+	position:relative; 
+	top: 15px;
+	left: 15px;
+	float: left;
+}
+p{
+	position:relative; 
+	left: 80px;
+	top: 210px;
+	color: white;
+}
+.inline-block{
+	display: inline-block;
+}
+
+
+
+
+
+
